@@ -1,0 +1,6 @@
+{
+  "name": "Get 1M Views",
+  "description": "Turn One Idea Into Viral Content - حوّل فكرة واحدة إلى محتوى جاهز للنشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
